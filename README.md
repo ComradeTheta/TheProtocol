@@ -1,2 +1,2 @@
-# the-protocol
+# TheProtocol
 The Protocol repository on GitHub
